@@ -2,9 +2,3 @@
 @tailwind components;
 @tailwind utilities;
 
-.slider {
-  @apply bg-green-200;
-  &::-webkit-scrollbar {
-    @apply h-2;
-  }
-}
